@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaik Muhammad Imran</h1>
 <h3 align="center">A passionate System Requirement Engineer at Robert Bosch.</h3>
 
-<img align="right" alt="System Requirements"width="400"  src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="System Requirements" width="400"  src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imran-shaik-20&label=Profile%20views&color=0e75b6&style=flat" alt="imran-shaik-20" /> </p>
 
